@@ -22,3 +22,27 @@ Here are some examples of scenes with two vanishing points:
 ![](img/two_vanish_points.PNG)
 ![](img/two_vanish_points2.PNG)
 
+![](img/two_vanish_points2_example.PNG)
+
+### Perspective grid 
+`Perspective grid` can be used to simplify the drawing.  
+
+How perspective grid is created:  
+![](img/perspective_grid.PNG)
+
+Here is an example of perspective grid usage:  
+![](img/perspective_grid_usage.PNG)
+
+### Perspective multiplying
+You can create plains on perspective from already existing plain.  
+In the following example, plain A has the same size as plain B:  
+![](img/perspective_multiplying.PNG)
+
+### Perspective dividing
+You can divide perspective plains to smaller plains:  
+![](img/Perspective_Dividing.jpg)
+
+
+## Lighting
+
+![](img/Lighting_Basics.jpg)
