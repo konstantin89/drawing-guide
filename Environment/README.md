@@ -53,7 +53,19 @@ You can divide perspective plains to smaller plains:
 `Half To Black` is technique to find the correct values of shadows.  
 `Ambient Occlusion Shadows` are shadows on form ends.  
 
+### Spheres and Cubes
 ![](img/rendering/Primitive+rendering+1+cubes+and+spheres+B.jpg)
 ![](img/rendering/Primitive+rendering+1+cubes+and+spheres+A.jpg)
+![](img/rendering/sphere+-+labeled.jpg)
 
+Few examples:
+![](img/rendering/example1.jpg)
+![](img/rendering/example2.jpg)
+
+### Celinders and Cones
+![](img/rendering/Ellipse+notes.jpg)
+![](img/rendering/Base+Cylinder+and+Cone.jpg)
+
+Examples:
+![](img/rendering/cone_celionder_examples.jpg)
 
