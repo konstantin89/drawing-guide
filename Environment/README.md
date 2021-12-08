@@ -46,3 +46,14 @@ You can divide perspective plains to smaller plains:
 ## Lighting
 
 ![](img/Lighting_Basics.jpg)
+
+
+## Rendering
+
+`Half To Black` is technique to find the correct values of shadows.  
+`Ambient Occlusion Shadows` are shadows on form ends.  
+
+![](img/rendering/Primitive+rendering+1+cubes+and+spheres+B.jpg)
+![](img/rendering/Primitive+rendering+1+cubes+and+spheres+A.jpg)
+
+

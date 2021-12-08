@@ -9,3 +9,9 @@
 ### Eyes
 ![](img/eyes_shape.PNG)
 ![](img/eyes.PNG)
+
+### Ears
+![](img/ears.PNG)
+
+### Nose
+![](img/nose.PNG)
