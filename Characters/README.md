@@ -15,3 +15,8 @@
 
 ### Nose
 ![](img/nose.PNG)
+
+## Hair
+![](img/hair/hair1.jpg)
+![](img/hair/hair2.jpg)
+![](img/hair/hair3.jpg)

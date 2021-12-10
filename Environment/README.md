@@ -69,3 +69,30 @@ Few examples:
 Examples:
 ![](img/rendering/cone_celionder_examples.jpg)
 
+
+## Colors
+
+`Prime Color` is color that is not a combination of other colors.  
+
+`Complimentry Colors` are colors that oppose each other on the color weel.  
+For example: Green and Red are complimentry colors.  
+![](img/color_weel.JPG)
+
+
+### Light Shadow Contrust 
+`Light Shadow Contrust` is acheved in two ways:  
+1. Cool light + warm shadow.  
+2. Warm light + cool shadow.  
+
+This contrust is making the painting more alive and colorful.  
+![](img/Cool+and+Warm+Example_2.jpg)
+
+#### Bush example  
+This example is good demonstration of light/shadow contrast.   
+The light is warm yellow.  
+The shadow is cool blue.  
+![](img/lil+bush+demo.jpg)
+
+#### More Examples
+![](img/Cool+and+Warm+Example.jpg)
+
