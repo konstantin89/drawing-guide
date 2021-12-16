@@ -9,6 +9,7 @@
 ### Eyes
 ![](img/eyes_shape.PNG)
 ![](img/eyes.PNG)
+![](img/eyes_examples.JPG)
 
 ### Ears
 ![](img/ears.PNG)
