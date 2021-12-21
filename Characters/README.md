@@ -24,13 +24,19 @@
 ### Lips
 [Tutorial video](https://www.youtube.com/watch?v=pB5fyDLJGhE)
 
+#### Front view
 ![](img/lips_tutorial1.JPG)
+
+#### 3/4 view
+![](img/lips_tutorial2.JPG)
 
 
 ## Hair
 
 ### Tutorials
-[Drawing hair tutorial](https://www.youtube.com/watch?v=hgxvWvT4B7A)
+[Drawing hair tutorial](https://www.youtube.com/watch?v=hgxvWvT4B7A)  
+[Drawing hair tutorial by Angel Ganev](https://www.youtube.com/watch?v=ClAMuGEfFNM)  
+
 
 
 ### Important points when drawing hair
