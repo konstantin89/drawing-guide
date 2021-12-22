@@ -9,7 +9,6 @@
 ![](img/head_side_view.PNG)
 
 ### Eyes
-![](img/eyes_shape.PNG)
 ![](img/eyes.PNG)
 ![](img/eyes_examples.JPG)
 ![](img/eye_colors.jpeg)
