@@ -1,4 +1,4 @@
-# Enviroment Design
+# Environment Design
 
 ## Line Wight
 
@@ -13,11 +13,11 @@ Thumb rule for line usage:
 ![](img/line_type_usage.PNG)
 
 
-## Prespective
+## Perspective
 ![](img/Perspective+1+pt.jpg)
 
 The most common `vanishing points` configuration is using two vanishing points.  
-To find the `horizon line`, look for horisontal objects in the scene.  
+To find the `horizon line`, look for horizontal objects in the scene.  
 Here are some examples of scenes with two vanishing points:  
 ![](img/two_vanish_points.PNG)
 ![](img/two_vanish_points2.PNG)
@@ -33,23 +33,21 @@ How perspective grid is created:
 Here is an example of perspective grid usage:  
 ![](img/perspective_grid_usage.PNG)
 
-### Perspective multiplying
-You can create plains on perspective from already existing plain.  
-In the following example, plain A has the same size as plain B:  
-![](img/perspective_multiplying.PNG)
 
-### Perspective dividing
-You can divide perspective plains to smaller plains:  
-![](img/Perspective_Dividing.jpg)
+## Atmospheric Perspective
+Far objects have less sharp color from those who are close.
+In the following example, all layers are black.  
+Go to  `Edit` -> `Tonal Correction` -> `Level Correction` and set  
+brighter level to the far layers.  
+Adding `Mist Layers` between the original layers can make the image more realistic.   
+![](img/layer_trees.JPG)
 
 
 ## Lighting
-
 ![](img/Lighting_Basics.jpg)
 
 
 ## Rendering
-
 `Half To Black` is technique to find the correct values of shadows.  
 `Ambient Occlusion Shadows` are shadows on form ends.  
 
@@ -62,7 +60,7 @@ Few examples:
 ![](img/rendering/example1.jpg)
 ![](img/rendering/example2.jpg)
 
-### Celinders and Cones
+### Cylinders and Cones
 ![](img/rendering/Ellipse+notes.jpg)
 ![](img/rendering/Base+Cylinder+and+Cone.jpg)
 
@@ -71,20 +69,19 @@ Examples:
 
 
 ## Colors
-
 `Prime Color` is color that is not a combination of other colors.  
 
-`Complimentry Colors` are colors that oppose each other on the color weel.  
-For example: Green and Red are complimentry colors.  
+`Complimentary Colors` are colors that oppose each other on the color wheel.  
+For example: Green and Red are complimentary colors.  
 ![](img/color_weel.JPG)
 
 
-### Light Shadow Contrust 
-`Light Shadow Contrust` is acheved in two ways:  
+### Light Shadow Contrast 
+`Light Shadow Contrast` is achieved in two ways:  
 1. Cool light + warm shadow.  
 2. Warm light + cool shadow.  
 
-This contrust is making the painting more alive and colorful.  
+This contrast is making the painting more alive and colorful.  
 ![](img/Cool+and+Warm+Example_2.jpg)
 
 #### Bush example  
