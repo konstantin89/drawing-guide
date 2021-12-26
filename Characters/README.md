@@ -59,5 +59,7 @@ There are few main hair structures that we can use:
 ![](img/hair/hair_examples2.JPG)
 ![](img/hair/hair_examples3.JPG)
 ![](img/hair/hair_examples4.JPG)
+![](img/hair/hair_examples5.JPG)
+![](img/hair/hair_examples6.JPG)
 
 

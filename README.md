@@ -6,6 +6,8 @@
 [Environment](Environment/Readme.md)   
 [Animations](Animations/Readme.md)   
 
+## Free Resources
+[pexels - Free images](https://www.pexels.com/)
 
 ## Clip Studio Tutorials
 
