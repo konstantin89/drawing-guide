@@ -12,7 +12,7 @@
 ![](img/eyes.PNG)
 ![](img/eyes_examples.JPG)
 ![](img/eye_colors.jpeg)
-![](img/how_to_eyes.jpg)
+
 
 ### Ears
 ![](img/ears.PNG)
