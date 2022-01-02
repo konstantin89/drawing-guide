@@ -1,5 +1,8 @@
 # Animations
 
+## Resources
+[Telepurte  youtube chanel](https://www.youtube.com/channel/UCkDtCKtPKlsg-gJO_m5D0mQ)
+
 ## Tutorials
 
 ### Walking
