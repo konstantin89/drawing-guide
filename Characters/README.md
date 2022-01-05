@@ -1,6 +1,7 @@
 # Character Design
 
-[Clothing](Clothing/README.md)
+[Clothing](Clothing/README.md)  
+[Facial Expressions](Facial_Expressions/README.md)  
 
 ## Faces
 
@@ -9,9 +10,12 @@
 ![](img/head_side_view.PNG)
 
 ### Eyes
+
+[Drawing eyes tutorial](https://medibangpaint.com/en/use/2016/03/how-to-draw-eyes-in-medibang-paint/)
+
 ![](img/eyes.PNG)
 ![](img/eyes_examples.JPG)
-![](img/eye_colors.jpeg)
+![](img/eyes_tutorial.JPG)
 
 
 ### Ears

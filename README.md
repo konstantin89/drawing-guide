@@ -11,4 +11,7 @@
 
 ## Clip Studio Tutorials
 
-[Custom Shapes](https://tips.clip-studio.com/en-us/articles/2143)
+[Custom Shapes](https://tips.clip-studio.com/en-us/articles/2143)  
+
+[Mesh Transformation](https://www.clip-studio.com/site/gd_en/csp/userguide/csp_userguide/500_menu/500_menu_edit_transformation_mesh.htm)  
+
