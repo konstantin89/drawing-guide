@@ -7,7 +7,8 @@
 [Animations](Animations/Readme.md)   
 
 ## Free Resources
-[pexels - Free images](https://www.pexels.com/)
+[pexels - Free images](https://www.pexels.com/)    
+[turbosquid - Free 3D models](https://www.turbosquid.com/Search/3D-Models/free)  
 
 ## Clip Studio Tutorials
 
