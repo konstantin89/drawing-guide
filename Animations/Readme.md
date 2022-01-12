@@ -3,6 +3,11 @@
 ## Resources
 [Telepurte  youtube chanel](https://www.youtube.com/channel/UCkDtCKtPKlsg-gJO_m5D0mQ)
 
+# Theory
+![](img/charts.PNG)
+![](img/slowing_in_and_out_charts.PNG)
+
+
 ## Tutorials
 
 ### Walking
