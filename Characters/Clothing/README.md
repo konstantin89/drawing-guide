@@ -12,10 +12,9 @@
 ## Pants
 ![](img/pants_basic.JPG)
 ![](img/jeans.JPG)
+![](img/shorts.jpg)
 
 ## Shirts
 ![](img/shirt.JPG)
 
-## Shoes
-![](img/shoes.jpg)
-![](img/shoes2.jpg)
+
