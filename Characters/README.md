@@ -14,7 +14,6 @@
 [Drawing eyes tutorial](https://medibangpaint.com/en/use/2016/03/how-to-draw-eyes-in-medibang-paint/)
 
 ![](img/eyes.PNG)
-![](img/eyes_examples.JPG)
 ![](img/eyes_tutorial.JPG)
 
 

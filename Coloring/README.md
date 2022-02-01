@@ -2,6 +2,9 @@
 
 ## Practical Techniques
 
+### Using color layers
+![](img/using_color_layer.PNG)
+
 ### Drawing Cast Shadows
 
 1. Create shadows layer over the flat colors layer.  

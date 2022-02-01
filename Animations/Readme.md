@@ -8,6 +8,9 @@
 ### Notes
 * While drawing circle, press `Shift` to get perfect circle and not an oval.
 * While drawing circle, press `Alt` to center the circle where the initial click pressed.
+* Use the `Hide Edge` tool to make some lines invisible, but keeping the vector curve (Page 63 in the tutorial book).
+* Use `Line Width` tool and set width zero to the last point on each line (Page 64 in the tutorial book).
+* To rise/lower shapes on top of other: Use `Select shape`, and then use the up/down arrows.
 
 ## Clip studio
 
