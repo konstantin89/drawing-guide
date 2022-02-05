@@ -1,9 +1,10 @@
 # Coloring
 
-## Practical Techniques
+## Practical techniques
 
 ### Using color layers
 ![](img/using_color_layer.PNG)
+
 
 ### Drawing Cast Shadows
 
@@ -13,7 +14,6 @@
 4. Draw shadows.
 
 ![](img/cast_shadows.JPG)
-
 
 ### Light Bloom
 Light bloom effect occurs when the light source  
@@ -66,14 +66,35 @@ Chalk texture looks like skin.
 
 ## Theory
 
-### Basics
+### Color
+
+#### Adding color dynamics (Hue Shifting)
+When drawing objects, the shadow and the glow hue should be slightly different.  
+Shadow's hue should be little closer to `blue`.  
+Glow's hue should be little closer to `yellow`.  
+![](img/shadow-glow-colors.PNG)
+
+#### Main and secondary hue
+By example: If your base color is green, do not use string blue hue.  
+Lower the saturation of the blue that you are using, to make it fit better with the main color.  
+`Secondary colors should have lower saturation than the main color!`
+![](img/colors_dont_fit.PNG)
+
+#### Active/Passive colors
+Active colors `POP` from the image, while the passive not.  
+Use active colors to set attention on image focal points.  
+![](img/active_passive_colors.PNG)
+
+Example for Active/Passive colors:
+![](img/active_passive_colors_example.PNG)
+
+### Shadows
+
 Color zones on an object:  
 ![](img/object_color_zones.jpg)
 
 Value scale with 9 levels:   
 ![](img/value_scale_9_steps.jpg)
-
-### Shadows
 
 #### Strong light source
 If the light source us strong, the shadow has crisp edges and no blur.  

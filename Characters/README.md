@@ -32,6 +32,8 @@
 #### 3/4 view
 ![](img/lips_tutorial2.JPG)
 
+#### Clip Studio lips brush
+![](img/lips_brush.PNG)
 
 ## Hair
 
