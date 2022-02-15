@@ -68,3 +68,9 @@ There are few main hair structures that we can use:
 ![](img/hair/hair_examples6.JPG)
 
 
+## Body Anatomy
+
+### Hips and Waist
+
+[How To Draw HIPS & WAIST 1](https://www.youtube.com/watch?v=CXNmBiNkcUQ)  
+[How To Draw HIPS & WAIST 2](https://www.youtube.com/watch?v=J2k30dDqm08)  
