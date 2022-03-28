@@ -19,3 +19,8 @@
 
 [Mesh Transformation](https://www.clip-studio.com/site/gd_en/csp/userguide/csp_userguide/500_menu/500_menu_edit_transformation_mesh.htm)  
 
+## Drawing Tutorials
+[Clouds tutorial](http://www.mclelun.com/2016/05/anime-cloud-tutorial.html)
+
+## Links
+[Drawing books review](https://www.youtube.com/watch?v=qYjI-gOjPGM)
