@@ -4,7 +4,6 @@
 [Characters](Characters/Readme.md)  
 [Coloring](Coloring/Readme.md)  
 [Environment](Environment/Readme.md)   
-[Animations](Animations/Readme.md)   
 
 ## Tools
 [Gamut-Mask-Tool](https://www.deviantart.com/smilinweapon/art/Gamut-Mask-Tool-For-Photoshop-365279161)
