@@ -1,0 +1,91 @@
+Notes
+=====
+
+General process:
+
+	When sculpting, start shaping the large shapes in low polygon count, 
+	then when starting refining the small ditails use the divide command.
+	Create the siluet to look closest to the goal with the smallest ammount of poligons.
+
+	move perpendicular to the surface - hold alt while in move brash
+
+	lazy mouse - 'Stroke'->'Lazy Mouse'. Edit only 'Lazy Radius'.
+
+	to break 'perfect smooth surfaces' and make them more organic, use the 'add clay' brush.
+
+Brushes:
+
+	morph brush - first use 'Morth Target'->'Store MT', then use Morth brush to restore the stored state.
+	
+	use 'Dam standard' brash to make deep and thin cuts.
+
+	use 'Trim Dynamic' brush to create edges on round objects.
+
+	use 'Move Topological' to shape large shapes. Its better than normal move.
+
+	use 'Nudge' brush to slide edges around, without changing the topology.
+
+Alphas:
+
+	To make alphas smoother, edit Alpha->Modify->blur.
+
+	Setting 'Focal Shift' to -100, will remove the alpha's edges 'fade out'.
+
+	To make alpha blend better on to the surface, use Alpha->Modify->MidValue (set to 100).
+
+Masks:
+
+	To activate mask press ctrl.
+	
+	To 'reverse' the mask, hold ctrl and click anywhere not on model.
+
+	ctrl + left click + drag will clear all the mask.
+	
+	Use 'Masking'->'Blur Mask' and 'Masking'->'Sharp Mask' to manipulate mask's edges.
+	
+	Use 'Masking'->'Grow Mask' and 'Masking'->'Srink Mask' to manipulate mask size.	
+	
+	
+Hide/Show:
+
+	Press 'Ctrl+Shift+Drag' to show only part of the object. Press 'Ctrl+Shift+R_click' to show all.
+	
+	Press 'Ctrl+Shift+Drag+Alt' to hide part of the object.
+	
+	Reverse hide selection by 'Ctrl+Shift+Drag', while dragging on empty space.
+	
+	Use 'Trim Rect' brush to trim parts of the shape while using the (Ctrl+Alt+Drag) (instead of hide/show).
+	
+	The Trim brushes are working in select mode (ctrl+alt).
+	
+	Trim cannot work if there are subdivisions! Use Clip brushes instead. They keep the topology.
+	
+	
+	
+Shortcuts
+=========
+
+show/hide lightbox - ,
+
+hide all menus - tab
+
+clean canvas - ctrl+n
+
+switch from 2.5D mode to 3D mode - press 'edit' button
+
+move on canvas (pan) - alt+r_click
+
+zoom - alt+r_click then release alt
+
+activate symmetry - Transform->Activate_Symmetry or x
+
+open brushes window - b
+
+divide polygons - Geometry->Divide
+
+reverse Zadd/Zsub - alt
+
+open control popup window - space
+
+activate smooth brush - shift
+

@@ -1,0 +1,3 @@
+Tool - name for sculpture or object.
+
+Subtool - same as photoshop layer.
